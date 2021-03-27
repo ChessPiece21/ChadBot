@@ -24,7 +24,7 @@ async def on_ready():
 
 @bot.command(description='Returns a random GIF of Chad saying "ok."'
 async def ok(ctx):
-	print("ok")
+	print("Ok.")
 	await ctx.send(random.choice(gifs))
 
 # DISCORDTOKEN ENV VAR MUST BE SET OR SERVER WILL NOT RUN
