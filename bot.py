@@ -16,6 +16,9 @@ gifs = [
     "https://tenor.com/TKX1.gif",
     "https://tenor.com/7geU.gif",
     "https://tenor.com/GS73.gif",
+    "https://media1.tenor.com/images/91fc0b7471e932b7eacdf0af056a3ee2/tenor.gif?itemid=16694978",
+    "https://thumbs.gfycat.com/FluffySomberGazelle-max-1mb.gif",
+    "https://nerdbot.com/wp-content/uploads/2020/06/ForcefulHopefulJapanesebeetle-size_restricted.gif",
 ]
 
 @bot.event
